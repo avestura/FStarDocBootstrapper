@@ -1,4 +1,4 @@
-namespace OxFstar
+namespace OxFStar
 
 module CoreTypes =
     open System

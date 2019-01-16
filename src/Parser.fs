@@ -1,10 +1,10 @@
-namespace OxFstar
+namespace OxFStar
 open FSharp.Data
 open System.Text.RegularExpressions
 
 module Parser =
     open System
-    open OxFstar.CoreTypes
+    open OxFStar.CoreTypes
 
     let ItemNodesOf (n:HtmlNode) = n.CssSelect "div.tocitem"
     let BlockNodesOf (n:HtmlNode) = n.CssSelect "div.tocblock"

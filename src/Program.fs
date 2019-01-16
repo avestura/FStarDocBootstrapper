@@ -2,8 +2,8 @@
 
 module Program =
     open System
-    open OxFstar.CoreTypes
-    open OxFstar.Parser
+    open OxFStar.CoreTypes
+    open OxFStar.Parser
 
     [<EntryPoint>]
     let main argv =
