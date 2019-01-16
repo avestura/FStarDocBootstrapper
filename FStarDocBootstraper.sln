@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FStarDocBootstrapper", "FStarDocBootstrapper.fsproj", "{28AF055C-8E76-434E-A0AF-0FDAB71A8360}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FStarDocBootstrapper", "src\FStarDocBootstrapper.fsproj", "{28AF055C-8E76-434E-A0AF-0FDAB71A8360}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
